@@ -1,1 +1,16 @@
 # CSS-Backgrounds-and-Box-Model-Properties-Coding-Test-1-SW-GC1-CCBP-NxtWave
+
+The goal of this coding exam is to quickly get you off the ground with CSS Background Images, Width, and Height properties.
+
+
+Desired Output: -
+
+
+
+<img width="340" height="600" alt="image" src="https://github.com/user-attachments/assets/d9ef43b6-ab30-4791-9696-7b8049fa9713" />
+
+
+
+
+Check Output Here: -
+
